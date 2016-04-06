@@ -1,0 +1,1064 @@
+Pid [57409602] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-09:42:25.594636] | ERR>> 分配地址[30000000] 
+Pid [57409602] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-09:42:25.594781] | ERR>> 分配地址[30001000] 
+Pid [25100340] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-09:47:45.652919] | ERR>> 分配地址[30000000] 
+Pid [25100340] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-09:47:45.653081] | ERR>> 分配地址[30001000] 
+Pid [31850734] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-09:48:26.879115] | ERR>> 分配地址[30000000] 
+Pid [31850734] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-09:48:26.879258] | ERR>> 分配地址[30001000] 
+Pid [63963490] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-09:48:40.612179] | ERR>> 分配地址[30000000] 
+Pid [63963490] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-09:48:40.612313] | ERR>> 分配地址[30001000] 
+Pid [47382958] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-09:50:48.448728] | ERR>> 分配地址[30000000] 
+Pid [47382958] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-09:50:48.448859] | ERR>> 分配地址[30001000] 
+Pid [33554490] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-09:54:55.531901] | ERR>> 分配地址[30000000] 
+Pid [33554490] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-09:54:55.532031] | ERR>> 分配地址[30001000] 
+Pid [33554852] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-09:58:33.603502] | ERR>> 分配地址[30000000] 
+Pid [33554852] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-09:58:33.603644] | ERR>> 分配地址[30001000] 
+Pid [62521814] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:16:31.783360] | ERR>> 分配地址[30000000] 
+Pid [62521814] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:16:31.783492] | ERR>> 分配地址[30001000] 
+Pid [57409652] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:21:54.960847] | ERR>> 分配地址[30000000] 
+Pid [57409652] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:21:54.960988] | ERR>> 分配地址[30001000] 
+Pid [50332078] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:34:34.528749] | ERR>> 分配地址[30000000] 
+Pid [50332078] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:34:34.528891] | ERR>> 分配地址[30001000] 
+Pid [33357912] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:39:32.574471] | ERR>> 分配地址[30000000] 
+Pid [33357912] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:39:32.574603] | ERR>> 分配地址[30001000] 
+Pid [32506214] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:46:16.659711] | ERR>> 分配地址[30000000] 
+Pid [32506214] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:46:16.659846] | ERR>> 分配地址[30001000] 
+Pid [35586460] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:48:07.038801] | ERR>> 分配地址[30000000] 
+Pid [35586460] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:48:07.038936] | ERR>> 分配地址[30001000] 
+Pid [38666436] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:52:47.396846] | ERR>> 分配地址[30000000] 
+Pid [38666436] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:52:47.396980] | ERR>> 分配地址[30001000] 
+Pid [19202470] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:53:29.462413] | ERR>> 分配地址[30000000] 
+Pid [19202470] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:53:29.462549] | ERR>> 分配地址[30001000] 
+Pid [50921782] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:54:45.831149] | ERR>> 分配地址[30000000] 
+Pid [50921782] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:54:45.831279] | ERR>> 分配地址[30001000] 
+Pid [29229324] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:56:50.345581] | ERR>> 分配地址[30000000] 
+Pid [29229324] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-10:56:50.345719] | ERR>> 分配地址[30001000] 
+Pid [37945764] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-11:02:00.176214] | ERR>> 分配地址[30000000] 
+Pid [37945764] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-11:02:00.176351] | ERR>> 分配地址[30001000] 
+Pid [35454998] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-11:03:30.226138] | ERR>> 分配地址[30000000] 
+Pid [35454998] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-11:03:30.226274] | ERR>> 分配地址[30001000] 
+Pid [12583414] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-11:05:42.009448] | ERR>> 分配地址[30000000] 
+Pid [12583414] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-11:05:42.009581] | ERR>> 分配地址[30001000] 
+Pid [48824490] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-11:07:55.914036] | ERR>> 分配地址[30000000] 
+Pid [48824490] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-11:07:55.914165] | ERR>> 分配地址[30001000] 
+Pid [47120522] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-12:32:32.182542] | ERR>> 分配地址[30000000] 
+Pid [47120522] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-12:32:32.182673] | ERR>> 分配地址[30001000] 
+Pid [47186264] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-14:43:58.529921] | ERR>> 分配地址[30000000] 
+Pid [47186264] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-14:43:58.530063] | ERR>> 分配地址[30001000] 
+Pid [19136788] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-14:56:22.376752] | ERR>> 分配地址[30000000] 
+Pid [19136788] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-14:56:22.376888] | ERR>> 分配地址[30001000] 
+Pid [53412026] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-15:05:12.535245] | ERR>> 分配地址[30000000] 
+Pid [53412026] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-15:05:12.535380] | ERR>> 分配地址[30001000] 
+Pid [38076722] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-15:07:27.084452] | ERR>> 分配地址[30000000] 
+Pid [38076722] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-15:07:27.084583] | ERR>> 分配地址[30001000] 
+Pid [32899146] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-15:10:37.994542] | ERR>> 分配地址[30000000] 
+Pid [32899146] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-15:10:37.994681] | ERR>> 分配地址[30001000] 
+Pid [45875602] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-15:15:47.466327] | ERR>> 分配地址[30000000] 
+Pid [45875602] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-15:15:47.466463] | ERR>> 分配地址[30001000] 
+Pid [53870982] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-15:18:10.624886] | ERR>> 分配地址[30000000] 
+Pid [53870982] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-15:18:10.625020] | ERR>> 分配地址[30001000] 
+Pid [34340866] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-15:20:11.141745] | ERR>> 分配地址[30000000] 
+Pid [34340866] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-15:20:11.141898] | ERR>> 分配地址[30001000] 
+Pid [61210674] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-15:21:24.747266] | ERR>> 分配地址[30000000] 
+Pid [61210674] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-15:21:24.747394] | ERR>> 分配地址[30001000] 
+Pid [38994040] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-15:30:43.262471] | ERR>> 分配地址[30000000] 
+Pid [38994040] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-15:30:43.262597] | ERR>> 分配地址[30001000] 
+Pid [58065004] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-15:55:31.995112] | ERR>> 分配地址[30000000] 
+Pid [58065004] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-15:55:31.995253] | ERR>> 分配地址[30001000] 
+Pid [57541092] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-16:39:26.729421] | ERR>> 分配地址[30000000] 
+Pid [57541092] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-16:39:26.729562] | ERR>> 分配地址[30001000] 
+Pid [43778090] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-16:46:44.934473] | ERR>> 分配地址[30000000] 
+Pid [43778090] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-16:46:44.934604] | ERR>> 分配地址[30001000] 
+Pid [64684284] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-16:49:43.169522] | ERR>> 分配地址[30000000] 
+Pid [64684284] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-16:49:43.169650] | ERR>> 分配地址[30001000] 
+Pid [43253876] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-17:34:47.020589] | ERR>> 分配地址[30000000] 
+Pid [43253876] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-17:34:47.020721] | ERR>> 分配地址[30001000] 
+Pid [65405024] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-17:45:50.813474] | ERR>> 分配地址[30000000] 
+Pid [65405024] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-17:45:50.813624] | ERR>> 分配地址[30001000] 
+Pid [64356600] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-17:50:48.446970] | ERR>> 分配地址[30000000] 
+Pid [64356600] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/03-17:50:48.447108] | ERR>> 分配地址[30001000] 
+Pid [50659328] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-08:47:06.238071] | ERR>> 分配地址[30000000] 
+Pid [50659328] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-08:47:06.243156] | ERR>> 分配地址[30001000] 
+Pid [36962700] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-09:07:52.183851] | ERR>> 分配地址[30000000] 
+Pid [36962700] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-09:07:52.183991] | ERR>> 分配地址[30001000] 
+Pid [25755782] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-09:09:20.269162] | ERR>> 分配地址[30000000] 
+Pid [25755782] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-09:09:20.269296] | ERR>> 分配地址[30001000] 
+Pid [51118388] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-09:17:22.770709] | ERR>> 分配地址[30000000] 
+Pid [51118388] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-09:17:22.770848] | ERR>> 分配地址[30001000] 
+Pid [44498964] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-09:29:16.179516] | ERR>> 分配地址[30000000] 
+Pid [44498964] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-09:29:16.179647] | ERR>> 分配地址[30001000] 
+Pid [27459590] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-09:37:52.960583] | ERR>> 分配地址[30000000] 
+Pid [27459590] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-09:37:52.960726] | ERR>> 分配地址[30001000] 
+Pid [29753668] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-09:39:08.083889] | ERR>> 分配地址[30000000] 
+Pid [29753668] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-09:39:08.084025] | ERR>> 分配地址[30001000] 
+Pid [49545644] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-11:34:15.473538] | ERR>> 分配地址[30000000] 
+Pid [49545644] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-11:34:15.473679] | ERR>> 分配地址[30001000] 
+Pid [55902290] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-11:47:04.092443] | ERR>> 分配地址[30000000] 
+Pid [55902290] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-11:47:04.092588] | ERR>> 分配地址[30001000] 
+Pid [55836784] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-12:21:20.831770] | ERR>> 分配地址[30000000] 
+Pid [55836784] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-12:21:20.831907] | ERR>> 分配地址[30001000] 
+Pid [33554766] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-12:23:10.402295] | ERR>> 分配地址[30000000] 
+Pid [33554766] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-12:23:10.402435] | ERR>> 分配地址[30001000] 
+Pid [29098470] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-14:34:48.204772] | ERR>> 分配地址[30000000] 
+Pid [29098470] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-14:34:48.204917] | ERR>> 分配地址[30001000] 
+Pid [52625730] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-16:54:37.560490] | ERR>> 分配地址[30000000] 
+Pid [52625730] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-16:54:37.560629] | ERR>> 分配地址[30001000] 
+Pid [26739132] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-17:33:26.358295] | ERR>> 分配地址[30000000] 
+Pid [26739132] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-17:33:26.358448] | ERR>> 分配地址[30001000] 
+Pid [23199780] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-17:38:57.643602] | ERR>> 分配地址[30000000] 
+Pid [23199780] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-17:38:57.643734] | ERR>> 分配地址[30001000] 
+Pid [47776064] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-17:41:46.762337] | ERR>> 分配地址[30000000] 
+Pid [47776064] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-17:41:46.762482] | ERR>> 分配地址[30001000] 
+Pid [44433864] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-17:43:25.997104] | ERR>> 分配地址[30000000] 
+Pid [44433864] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-17:43:25.997239] | ERR>> 分配地址[30001000] 
+Pid [44433872] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-17:49:16.438823] | ERR>> 分配地址[30000000] 
+Pid [44433872] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-17:49:16.438954] | ERR>> 分配地址[30001000] 
+Pid [48365618] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-17:53:55.898826] | ERR>> 分配地址[30000000] 
+Pid [48365618] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-17:53:55.898969] | ERR>> 分配地址[30001000] 
+Pid [45809852] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-18:06:59.985205] | ERR>> 分配地址[30000000] 
+Pid [45809852] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/04-18:06:59.985363] | ERR>> 分配地址[30001000] 
+Pid [33423414] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-08:40:46.375834] | ERR>> 分配地址[30000000] 
+Pid [33423414] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-08:40:46.375967] | ERR>> 分配地址[30001000] 
+Pid [2621872] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-08:51:47.238031] | ERR>> 分配地址[30000000] 
+Pid [2621872] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-08:51:47.238172] | ERR>> 分配地址[30001000] 
+Pid [37749168] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-08:54:20.324642] | ERR>> 分配地址[30000000] 
+Pid [37749168] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-08:54:20.324776] | ERR>> 分配地址[30001000] 
+Pid [37749124] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-10:04:43.191835] | ERR>> 分配地址[30000000] 
+Pid [37749124] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-10:04:43.191965] | ERR>> 分配地址[30001000] 
+Pid [23069132] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-10:05:21.426965] | ERR>> 分配地址[30000000] 
+Pid [23069132] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-10:05:21.427104] | ERR>> 分配地址[30001000] 
+Pid [23396462] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-10:06:48.518078] | ERR>> 分配地址[30000000] 
+Pid [23396462] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-10:06:48.518212] | ERR>> 分配地址[30001000] 
+Pid [21037132] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-10:10:22.337791] | ERR>> 分配地址[30000000] 
+Pid [21037132] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-10:10:22.337926] | ERR>> 分配地址[30001000] 
+Pid [53477714] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-10:10:41.491529] | ERR>> 分配地址[30000000] 
+Pid [53477714] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-10:10:41.491677] | ERR>> 分配地址[30001000] 
+Pid [53477720] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-10:10:45.776643] | ERR>> 分配地址[30000000] 
+Pid [53477720] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-10:10:45.776771] | ERR>> 分配地址[30001000] 
+Pid [53477732] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-10:11:26.345723] | ERR>> 分配地址[30000000] 
+Pid [53477732] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-10:11:26.345861] | ERR>> 分配地址[30001000] 
+Pid [45351184] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-11:04:06.462187] | ERR>> 分配地址[30000000] 
+Pid [45351184] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-11:04:06.462329] | ERR>> 分配地址[30001000] 
+Pid [46792748] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-11:09:52.588105] | ERR>> 分配地址[30000000] 
+Pid [46792748] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-11:09:52.588237] | ERR>> 分配地址[30001000] 
+Pid [52363672] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-11:19:19.178170] | ERR>> 分配地址[30000000] 
+Pid [52363672] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-11:19:19.178305] | ERR>> 分配地址[30001000] 
+Pid [43581750] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-11:32:43.912893] | ERR>> 分配地址[30000000] 
+Pid [43581750] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-11:32:43.913030] | ERR>> 分配地址[30001000] 
+Pid [56426616] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-11:38:39.434865] | ERR>> 分配地址[30000000] 
+Pid [56426616] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-11:38:39.435004] | ERR>> 分配地址[30001000] 
+Pid [41615432] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-11:44:31.394305] | ERR>> 分配地址[30000000] 
+Pid [41615432] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-11:44:31.394441] | ERR>> 分配地址[30001000] 
+Pid [24445324] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-11:46:04.599583] | ERR>> 分配地址[30000000] 
+Pid [24445324] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-11:46:04.599718] | ERR>> 分配地址[30001000] 
+Pid [22544578] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-11:49:13.817819] | ERR>> 分配地址[30000000] 
+Pid [22544578] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-11:49:13.817955] | ERR>> 分配地址[30001000] 
+Pid [45351400] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-12:45:39.543509] | ERR>> 分配地址[30000000] 
+Pid [45351400] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-12:45:39.543649] | ERR>> 分配地址[30001000] 
+Pid [53346630] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-12:51:30.963787] | ERR>> 分配地址[30000000] 
+Pid [53346630] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-12:51:30.963930] | ERR>> 分配地址[30001000] 
+Pid [48890284] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-12:54:41.992665] | ERR>> 分配地址[30000000] 
+Pid [48890284] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-12:54:41.992801] | ERR>> 分配地址[30001000] 
+Pid [66322592] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-12:56:13.139969] | ERR>> 分配地址[30000000] 
+Pid [66322592] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-12:56:13.140104] | ERR>> 分配地址[30001000] 
+Pid [11010558] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-12:58:34.793205] | ERR>> 分配地址[30000000] 
+Pid [11010558] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-12:58:34.793342] | ERR>> 分配地址[30001000] 
+Pid [60490218] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:00:19.241434] | ERR>> 分配地址[30000000] 
+Pid [60490218] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:00:19.241574] | ERR>> 分配地址[30001000] 
+Pid [30474436] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:01:45.385060] | ERR>> 分配地址[30000000] 
+Pid [30474436] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:01:45.385191] | ERR>> 分配地址[30001000] 
+Pid [63045980] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:03:29.105113] | ERR>> 分配地址[30000000] 
+Pid [63045980] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:03:29.105250] | ERR>> 分配地址[30001000] 
+Pid [60490082] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:06:14.387993] | ERR>> 分配地址[30000000] 
+Pid [60490082] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:06:14.388156] | ERR>> 分配地址[30001000] 
+Pid [9371744] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:11:18.641803] | ERR>> 分配地址[30000000] 
+Pid [9371744] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:11:18.641935] | ERR>> 分配地址[30001000] 
+Pid [53346756] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:15:25.762003] | ERR>> 分配地址[30000000] 
+Pid [53346756] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:15:25.762155] | ERR>> 分配地址[30001000] 
+Pid [57999632] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:17:50.980267] | ERR>> 分配地址[30000000] 
+Pid [57999632] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:17:50.980398] | ERR>> 分配地址[30001000] 
+Pid [57999694] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:18:57.865868] | ERR>> 分配地址[30000000] 
+Pid [57999694] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:18:57.866004] | ERR>> 分配地址[30001000] 
+Pid [61800698] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:25:06.871156] | ERR>> 分配地址[30000000] 
+Pid [61800698] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:25:06.871290] | ERR>> 分配地址[30001000] 
+Pid [56885584] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:26:02.848968] | ERR>> 分配地址[30000000] 
+Pid [56885584] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:26:02.849109] | ERR>> 分配地址[30001000] 
+Pid [22544590] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:28:32.406228] | ERR>> 分配地址[30000000] 
+Pid [22544590] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/07-13:28:32.406366] | ERR>> 分配地址[30001000] 
+Pid [60293390] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-08:50:42.370746] | ERR>> 分配地址[30000000] 
+Pid [60293390] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-08:50:42.370876] | ERR>> 分配地址[30001000] 
+Pid [61669446] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-09:33:43.783583] | ERR>> 分配地址[30000000] 
+Pid [61669446] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-09:33:43.783717] | ERR>> 分配地址[30001000] 
+Pid [52101502] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-09:41:06.919461] | ERR>> 分配地址[30000000] 
+Pid [52101502] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-09:41:06.919601] | ERR>> 分配地址[30001000] 
+Pid [41025838] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-09:41:20.449487] | ERR>> 分配地址[30000000] 
+Pid [41025838] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-09:41:20.449624] | ERR>> 分配地址[30001000] 
+Pid [63898018] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-09:42:59.568425] | ERR>> 分配地址[30000000] 
+Pid [63898018] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-09:42:59.568568] | ERR>> 分配地址[30001000] 
+Pid [45416842] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-10:13:10.635500] | ERR>> 分配地址[30000000] 
+Pid [45416842] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-10:13:10.635633] | ERR>> 分配地址[30001000] 
+Pid [56688802] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-10:37:40.022888] | ERR>> 分配地址[30000000] 
+Pid [56688802] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-10:37:40.023034] | ERR>> 分配地址[30001000] 
+Pid [48300508] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-10:37:56.410669] | ERR>> 分配地址[30000000] 
+Pid [48300508] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-10:37:56.410811] | ERR>> 分配地址[30001000] 
+Pid [42074536] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-10:40:04.754673] | ERR>> 分配地址[30000000] 
+Pid [42074536] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-10:40:04.754822] | ERR>> 分配地址[30001000] 
+Pid [24576494] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-10:53:39.451316] | ERR>> 分配地址[30000000] 
+Pid [24576494] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-10:53:39.451465] | ERR>> 分配地址[30001000] 
+Pid [57475306] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-10:54:50.280449] | ERR>> 分配地址[30000000] 
+Pid [57475306] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-10:54:50.280588] | ERR>> 分配地址[30001000] 
+Pid [62587188] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-12:44:53.949607] | ERR>> 分配地址[30000000] 
+Pid [62587188] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-12:44:53.949740] | ERR>> 分配地址[30001000] 
+Pid [38338968] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-14:54:50.357972] | ERR>> 分配地址[30000000] 
+Pid [38338968] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-14:54:50.358106] | ERR>> 分配地址[30001000] 
+Pid [328620] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-14:57:35.445554] | ERR>> 分配地址[30000000] 
+Pid [328620] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-14:57:35.445690] | ERR>> 分配地址[30001000] 
+Pid [33817010] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-15:04:56.975693] | ERR>> 分配地址[30000000] 
+Pid [33817010] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-15:04:56.975832] | ERR>> 分配地址[30001000] 
+Pid [25231564] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-15:18:13.258027] | ERR>> 分配地址[30000000] 
+Pid [25231564] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/08-15:18:13.258172] | ERR>> 分配地址[30001000] 
+Pid [46333984] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-08:50:08.923463] | ERR>> 分配地址[30000000] 
+Pid [46333984] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-08:50:08.923602] | ERR>> 分配地址[30001000] 
+Pid [22151334] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-08:53:34.209802] | ERR>> 分配地址[30000000] 
+Pid [22151334] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-08:53:34.209944] | ERR>> 分配地址[30001000] 
+Pid [55312658] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-08:56:03.558647] | ERR>> 分配地址[30000000] 
+Pid [55312658] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-08:56:03.558784] | ERR>> 分配地址[30001000] 
+Pid [54395184] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-08:58:21.168443] | ERR>> 分配地址[30000000] 
+Pid [54395184] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-08:58:21.168579] | ERR>> 分配地址[30001000] 
+Pid [56295460] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:00:28.024104] | ERR>> 分配地址[30000000] 
+Pid [56295460] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:00:28.024245] | ERR>> 分配地址[30001000] 
+Pid [22151256] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:04:53.702261] | ERR>> 分配地址[30000000] 
+Pid [22151256] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:04:53.702397] | ERR>> 分配地址[30001000] 
+Pid [55509362] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:14:36.573035] | ERR>> 分配地址[30000000] 
+Pid [55509362] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:14:36.573172] | ERR>> 分配地址[30001000] 
+Pid [46858388] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:19:49.344559] | ERR>> 分配地址[30000000] 
+Pid [46858388] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:19:49.344684] | ERR>> 分配地址[30001000] 
+Pid [58458578] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:29:37.875095] | ERR>> 分配地址[30000000] 
+Pid [58458578] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:29:37.875255] | ERR>> 分配地址[30001000] 
+Pid [40960004] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:29:57.786117] | ERR>> 分配地址[30000000] 
+Pid [40960004] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:29:57.786256] | ERR>> 分配地址[30001000] 
+Pid [35651666] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:30:11.799407] | ERR>> 分配地址[30000000] 
+Pid [35651666] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:30:11.799539] | ERR>> 分配地址[30001000] 
+Pid [58917312] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:30:32.477407] | ERR>> 分配地址[30000000] 
+Pid [58917312] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:30:32.477542] | ERR>> 分配地址[30001000] 
+Pid [3146608] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:30:48.906052] | ERR>> 分配地址[30000000] 
+Pid [3146608] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:30:48.906193] | ERR>> 分配地址[30001000] 
+Pid [59310546] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:32:06.293440] | ERR>> 分配地址[30000000] 
+Pid [59310546] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:32:06.293594] | ERR>> 分配地址[30001000] 
+Pid [64946476] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:32:17.618426] | ERR>> 分配地址[30000000] 
+Pid [64946476] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:32:17.618569] | ERR>> 分配地址[30001000] 
+Pid [3277696] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:32:39.295231] | ERR>> 分配地址[30000000] 
+Pid [3277696] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:32:39.295371] | ERR>> 分配地址[30001000] 
+Pid [49086526] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:33:05.758495] | ERR>> 分配地址[30000000] 
+Pid [49086526] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:33:05.758631] | ERR>> 分配地址[30001000] 
+Pid [65208782] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:34:19.490418] | ERR>> 分配地址[30000000] 
+Pid [65208782] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-09:34:19.490554] | ERR>> 分配地址[30001000] 
+Pid [63766890] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-10:03:35.093879] | ERR>> 分配地址[30000000] 
+Pid [63766890] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-10:03:35.094021] | ERR>> 分配地址[30001000] 
+Pid [33096004] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-10:31:07.738402] | ERR>> 分配地址[30000000] 
+Pid [33096004] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-10:31:07.738543] | ERR>> 分配地址[30001000] 
+Pid [43975124] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-10:41:32.748353] | ERR>> 分配地址[30000000] 
+Pid [43975124] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-10:41:32.748487] | ERR>> 分配地址[30001000] 
+Pid [60490234] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-10:42:53.117674] | ERR>> 分配地址[30000000] 
+Pid [60490234] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-10:42:53.117809] | ERR>> 分配地址[30001000] 
+Pid [60883074] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-10:43:42.315497] | ERR>> 分配地址[30000000] 
+Pid [60883074] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-10:43:42.315630] | ERR>> 分配地址[30001000] 
+Pid [34078966] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-10:45:21.720405] | ERR>> 分配地址[30000000] 
+Pid [34078966] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-10:45:21.720571] | ERR>> 分配地址[30001000] 
+Pid [43975150] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-10:45:58.838876] | ERR>> 分配地址[30000000] 
+Pid [43975150] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-10:45:58.839017] | ERR>> 分配地址[30001000] 
+Pid [23461926] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-10:46:50.819620] | ERR>> 分配地址[30000000] 
+Pid [23461926] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-10:46:50.819755] | ERR>> 分配地址[30001000] 
+Pid [41615642] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-10:47:11.550470] | ERR>> 分配地址[30000000] 
+Pid [41615642] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-10:47:11.550608] | ERR>> 分配地址[30001000] 
+Pid [12059058] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-11:07:37.250721] | ERR>> 分配地址[30000000] 
+Pid [12059058] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-11:07:37.250869] | ERR>> 分配地址[30001000] 
+Pid [45154642] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-11:10:52.602467] | ERR>> 分配地址[30000000] 
+Pid [45154642] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-11:10:52.602605] | ERR>> 分配地址[30001000] 
+Pid [34734166] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-11:13:21.436040] | ERR>> 分配地址[30000000] 
+Pid [34734166] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-11:13:21.436172] | ERR>> 分配地址[30001000] 
+Pid [50135298] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-11:14:29.338944] | ERR>> 分配地址[30000000] 
+Pid [50135298] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-11:14:29.339095] | ERR>> 分配地址[30001000] 
+Pid [50266586] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-11:18:28.079073] | ERR>> 分配地址[30000000] 
+Pid [50266586] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-11:18:28.079210] | ERR>> 分配地址[30001000] 
+Pid [10092974] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-11:19:40.290218] | ERR>> 分配地址[30000000] 
+Pid [10092974] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-11:19:40.290357] | ERR>> 分配地址[30001000] 
+Pid [30408708] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-11:43:55.483959] | ERR>> 分配地址[30000000] 
+Pid [30408708] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-11:43:55.484103] | ERR>> 分配地址[30001000] 
+Pid [29950162] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-11:45:25.542457] | ERR>> 分配地址[30000000] 
+Pid [29950162] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-11:45:25.542593] | ERR>> 分配地址[30001000] 
+Pid [58196358] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-15:17:09.571439] | ERR>> 分配地址[30000000] 
+Pid [58196358] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-15:17:09.571632] | ERR>> 分配地址[30001000] 
+Pid [20709522] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-15:18:53.846354] | ERR>> 分配地址[30000000] 
+Pid [20709522] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-15:18:53.846490] | ERR>> 分配地址[30001000] 
+Pid [29884424] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-15:35:31.477087] | ERR>> 分配地址[30000000] 
+Pid [29884424] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-15:35:31.477239] | ERR>> 分配地址[30001000] 
+Pid [16908548] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-15:36:28.824188] | ERR>> 分配地址[30000000] 
+Pid [16908548] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-15:36:28.824318] | ERR>> 分配地址[30001000] 
+Pid [63832304] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-15:40:49.167755] | ERR>> 分配地址[30000000] 
+Pid [63832304] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-15:40:49.167904] | ERR>> 分配地址[30001000] 
+Pid [16384180] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-15:59:02.592333] | ERR>> 分配地址[30000000] 
+Pid [16384180] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-15:59:02.592473] | ERR>> 分配地址[30001000] 
+Pid [61735202] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-16:12:23.746058] | ERR>> 分配地址[30000000] 
+Pid [61735202] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-16:12:23.746192] | ERR>> 分配地址[30001000] 
+Pid [15597872] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-16:13:39.226810] | ERR>> 分配地址[30000000] 
+Pid [15597872] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-16:13:39.226944] | ERR>> 分配地址[30001000] 
+Pid [45941098] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-16:46:26.376859] | ERR>> 分配地址[30000000] 
+Pid [45941098] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-16:46:26.376997] | ERR>> 分配地址[30001000] 
+Pid [20382180] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-18:05:09.909305] | ERR>> 分配地址[30000000] 
+Pid [20382180] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/09-18:05:09.909442] | ERR>> 分配地址[30001000] 
+Pid [63439190] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-08:47:37.812958] | ERR>> 分配地址[30000000] 
+Pid [63439190] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-08:47:37.813100] | ERR>> 分配地址[30001000] 
+Pid [60817908] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-09:24:22.895065] | ERR>> 分配地址[30000000] 
+Pid [60817908] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-09:24:22.895215] | ERR>> 分配地址[30001000] 
+Pid [60817676] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-09:32:01.364268] | ERR>> 分配地址[30000000] 
+Pid [60817676] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-09:32:01.364408] | ERR>> 分配地址[30001000] 
+Pid [59244978] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-09:41:59.266038] | ERR>> 分配地址[30000000] 
+Pid [59244978] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-09:41:59.266184] | ERR>> 分配地址[30001000] 
+Pid [53084366] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-09:53:39.867247] | ERR>> 分配地址[30000000] 
+Pid [53084366] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-09:53:39.867382] | ERR>> 分配地址[30001000] 
+Pid [49610918] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-09:54:47.408631] | ERR>> 分配地址[30000000] 
+Pid [49610918] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-09:54:47.408768] | ERR>> 分配地址[30001000] 
+Pid [31785122] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-09:56:37.136996] | ERR>> 分配地址[30000000] 
+Pid [31785122] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-09:56:37.137146] | ERR>> 分配地址[30001000] 
+Pid [55378418] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-09:57:18.216496] | ERR>> 分配地址[30000000] 
+Pid [55378418] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-09:57:18.216633] | ERR>> 分配地址[30001000] 
+Pid [64356582] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:09:16.770053] | ERR>> 分配地址[30000000] 
+Pid [64356582] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:09:16.770190] | ERR>> 分配地址[30001000] 
+Pid [57999720] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:19:31.391431] | ERR>> 分配地址[30000000] 
+Pid [57999720] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:19:31.391573] | ERR>> 分配地址[30001000] 
+Pid [26673212] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:21:51.314806] | ERR>> 分配地址[30000000] 
+Pid [26673212] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:21:51.314944] | ERR>> 分配地址[30001000] 
+Pid [14614840] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:22:49.325309] | ERR>> 分配地址[30000000] 
+Pid [14614840] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:22:49.325443] | ERR>> 分配地址[30001000] 
+Pid [43975012] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:37:49.597931] | ERR>> 分配地址[30000000] 
+Pid [43975012] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:37:49.598060] | ERR>> 分配地址[30001000] 
+Pid [29622752] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:41:18.173342] | ERR>> 分配地址[30000000] 
+Pid [29622752] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:41:18.173479] | ERR>> 分配地址[30001000] 
+Pid [61735202] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:42:42.374944] | ERR>> 分配地址[30000000] 
+Pid [61735202] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:42:42.375085] | ERR>> 分配地址[30001000] 
+Pid [22741074] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:43:52.413543] | ERR>> 分配地址[30000000] 
+Pid [22741074] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:43:52.413685] | ERR>> 分配地址[30001000] 
+Pid [62980400] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:44:54.411402] | ERR>> 分配地址[30000000] 
+Pid [62980400] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:44:54.411531] | ERR>> 分配地址[30001000] 
+Pid [64815364] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:46:17.309208] | ERR>> 分配地址[30000000] 
+Pid [64815364] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:46:17.309350] | ERR>> 分配地址[30001000] 
+Pid [55378226] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:47:32.608944] | ERR>> 分配地址[30000000] 
+Pid [55378226] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:47:32.609084] | ERR>> 分配地址[30001000] 
+Pid [50462944] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:48:47.507183] | ERR>> 分配地址[30000000] 
+Pid [50462944] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:48:47.507321] | ERR>> 分配地址[30001000] 
+Pid [64815478] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:58:43.777061] | ERR>> 分配地址[30000000] 
+Pid [64815478] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-10:58:43.777196] | ERR>> 分配地址[30001000] 
+Pid [28311718] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-11:07:54.792624] | ERR>> 分配地址[30000000] 
+Pid [28311718] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-11:07:54.792770] | ERR>> 分配地址[30001000] 
+Pid [65143270] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-11:39:49.129381] | ERR>> 分配地址[30000000] 
+Pid [65143270] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-11:39:49.129519] | ERR>> 分配地址[30001000] 
+Pid [66126116] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-11:42:54.249336] | ERR>> 分配地址[30000000] 
+Pid [66126116] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-11:42:54.249478] | ERR>> 分配地址[30001000] 
+Pid [47579280] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-11:45:03.057133] | ERR>> 分配地址[30000000] 
+Pid [47579280] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-11:45:03.057279] | ERR>> 分配地址[30001000] 
+Pid [1114992] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-13:01:17.037666] | ERR>> 分配地址[30000000] 
+Pid [1114992] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-13:01:17.037809] | ERR>> 分配地址[30001000] 
+Pid [2621806] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-14:35:56.973664] | ERR>> 分配地址[30000000] 
+Pid [2621806] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-14:35:56.973799] | ERR>> 分配地址[30001000] 
+Pid [28901618] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-14:37:18.944680] | ERR>> 分配地址[30000000] 
+Pid [28901618] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-14:37:18.944832] | ERR>> 分配地址[30001000] 
+Pid [13500780] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-14:39:14.432000] | ERR>> 分配地址[30000000] 
+Pid [13500780] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-14:39:14.432136] | ERR>> 分配地址[30001000] 
+Pid [17825802] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-14:40:47.559658] | ERR>> 分配地址[30000000] 
+Pid [17825802] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-14:40:47.559789] | ERR>> 分配地址[30001000] 
+Pid [57802904] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-14:42:05.495852] | ERR>> 分配地址[30000000] 
+Pid [57802904] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-14:42:05.495986] | ERR>> 分配地址[30001000] 
+Pid [43450848] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-14:45:21.416431] | ERR>> 分配地址[30000000] 
+Pid [43450848] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-14:45:21.416569] | ERR>> 分配地址[30001000] 
+Pid [3014926] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-14:47:46.373856] | ERR>> 分配地址[30000000] 
+Pid [3014926] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-14:47:46.373987] | ERR>> 分配地址[30001000] 
+Pid [66781304] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-14:53:02.163828] | ERR>> 分配地址[30000000] 
+Pid [66781304] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-14:53:02.163958] | ERR>> 分配地址[30001000] 
+Pid [40894468] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:04:40.232610] | ERR>> 分配地址[30000000] 
+Pid [40894468] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:04:40.232741] | ERR>> 分配地址[30001000] 
+Pid [36372756] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:07:29.887047] | ERR>> 分配地址[30000000] 
+Pid [36372756] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:07:29.887189] | ERR>> 分配地址[30001000] 
+Pid [55837066] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:14:01.731076] | ERR>> 分配地址[30000000] 
+Pid [55837066] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:14:01.731236] | ERR>> 分配地址[30001000] 
+Pid [5046456] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:16:08.148474] | ERR>> 分配地址[30000000] 
+Pid [5046456] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:16:08.148607] | ERR>> 分配地址[30001000] 
+Pid [42533292] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:21:25.086735] | ERR>> 分配地址[30000000] 
+Pid [42533292] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:21:25.086871] | ERR>> 分配地址[30001000] 
+Pid [13762820] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:22:20.252898] | ERR>> 分配地址[30000000] 
+Pid [13762820] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:22:20.253040] | ERR>> 分配地址[30001000] 
+Pid [55706064] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:25:55.452222] | ERR>> 分配地址[30000000] 
+Pid [55706064] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:25:55.452366] | ERR>> 分配地址[30001000] 
+Pid [9503116] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:27:59.960421] | ERR>> 分配地址[30000000] 
+Pid [9503116] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:27:59.960560] | ERR>> 分配地址[30001000] 
+Pid [197442] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:30:11.092529] | ERR>> 分配地址[30000000] 
+Pid [197442] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:30:11.092664] | ERR>> 分配地址[30001000] 
+Pid [54722746] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:32:13.764084] | ERR>> 分配地址[30000000] 
+Pid [54722746] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:32:13.764214] | ERR>> 分配地址[30001000] 
+Pid [33292620] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:36:48.248133] | ERR>> 分配地址[30000000] 
+Pid [33292620] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:36:48.248272] | ERR>> 分配地址[30001000] 
+Pid [54067342] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:42:06.879518] | ERR>> 分配地址[30000000] 
+Pid [54067342] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:42:06.879643] | ERR>> 分配地址[30001000] 
+Pid [27984232] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:56:53.814363] | ERR>> 分配地址[30000000] 
+Pid [27984232] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-15:56:53.814501] | ERR>> 分配地址[30001000] 
+Pid [60359056] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:02:19.634140] | ERR>> 分配地址[30000000] 
+Pid [60359056] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:02:19.634279] | ERR>> 分配地址[30001000] 
+Pid [38928820] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:03:19.256353] | ERR>> 分配地址[30000000] 
+Pid [38928820] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:03:19.256486] | ERR>> 分配地址[30001000] 
+Pid [59572608] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:06:42.477468] | ERR>> 分配地址[30000000] 
+Pid [59572608] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:06:42.477605] | ERR>> 分配地址[30001000] 
+Pid [19399070] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:11:12.001693] | ERR>> 分配地址[30000000] 
+Pid [19399070] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:11:12.001828] | ERR>> 分配地址[30001000] 
+Pid [3146652] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:12:13.778366] | ERR>> 分配地址[30000000] 
+Pid [3146652] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:12:13.778503] | ERR>> 分配地址[30001000] 
+Pid [42074596] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:13:11.031951] | ERR>> 分配地址[30000000] 
+Pid [42074596] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:13:11.032086] | ERR>> 分配地址[30001000] 
+Pid [11862382] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:20:56.855163] | ERR>> 分配地址[30000000] 
+Pid [11862382] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:20:56.855296] | ERR>> 分配地址[30001000] 
+Pid [58785966] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:22:50.708119] | ERR>> 分配地址[30000000] 
+Pid [58785966] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:22:50.708251] | ERR>> 分配地址[30001000] 
+Pid [3408776] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:23:36.485063] | ERR>> 分配地址[30000000] 
+Pid [3408776] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:23:36.485205] | ERR>> 分配地址[30001000] 
+Pid [47317400] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:40:29.805547] | ERR>> 分配地址[30000000] 
+Pid [47317400] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:40:29.805684] | ERR>> 分配地址[30001000] 
+Pid [30015708] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:41:11.864493] | ERR>> 分配地址[30000000] 
+Pid [30015708] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:41:11.864635] | ERR>> 分配地址[30001000] 
+Pid [28574170] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:41:52.917944] | ERR>> 分配地址[30000000] 
+Pid [28574170] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:41:52.918090] | ERR>> 分配地址[30001000] 
+Pid [65994754] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:42:55.093358] | ERR>> 分配地址[30000000] 
+Pid [65994754] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:42:55.093482] | ERR>> 分配地址[30001000] 
+Pid [19399088] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:43:07.796413] | ERR>> 分配地址[30000000] 
+Pid [19399088] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:43:07.796557] | ERR>> 分配地址[30001000] 
+Pid [31785122] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:44:30.027859] | ERR>> 分配地址[30000000] 
+Pid [31785122] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:44:30.027989] | ERR>> 分配地址[30001000] 
+Pid [36831392] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:45:41.350713] | ERR>> 分配地址[30000000] 
+Pid [36831392] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:45:41.350845] | ERR>> 分配地址[30001000] 
+Pid [43450734] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:46:55.648045] | ERR>> 分配地址[30000000] 
+Pid [43450734] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:46:55.648178] | ERR>> 分配地址[30001000] 
+Pid [51380704] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:48:01.281261] | ERR>> 分配地址[30000000] 
+Pid [51380704] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:48:01.281397] | ERR>> 分配地址[30001000] 
+Pid [49414284] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:52:04.218180] | ERR>> 分配地址[30000000] 
+Pid [49414284] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:52:04.218316] | ERR>> 分配地址[30001000] 
+Pid [66453816] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:52:48.039053] | ERR>> 分配地址[30000000] 
+Pid [66453816] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:52:48.039194] | ERR>> 分配地址[30001000] 
+Pid [48300538] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:55:09.705797] | ERR>> 分配地址[30000000] 
+Pid [48300538] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:55:09.705948] | ERR>> 分配地址[30001000] 
+Pid [55705886] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:55:21.125561] | ERR>> 分配地址[30000000] 
+Pid [55705886] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:55:21.125694] | ERR>> 分配地址[30001000] 
+Pid [46923920] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:57:10.542359] | ERR>> 分配地址[30000000] 
+Pid [46923920] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:57:10.542481] | ERR>> 分配地址[30001000] 
+Pid [30671102] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:59:26.135661] | ERR>> 分配地址[30000000] 
+Pid [30671102] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-16:59:26.135793] | ERR>> 分配地址[30001000] 
+Pid [33489202] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:04:44.310735] | ERR>> 分配地址[30000000] 
+Pid [33489202] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:04:44.310874] | ERR>> 分配地址[30001000] 
+Pid [19333242] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:05:04.983823] | ERR>> 分配地址[30000000] 
+Pid [19333242] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:05:04.983954] | ERR>> 分配地址[30001000] 
+Pid [61669420] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:05:42.498158] | ERR>> 分配地址[30000000] 
+Pid [61669420] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:05:42.498291] | ERR>> 分配地址[30001000] 
+Pid [38863250] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:07:15.597706] | ERR>> 分配地址[30000000] 
+Pid [38863250] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:07:15.597852] | ERR>> 分配地址[30001000] 
+Pid [28901528] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:09:06.595815] | ERR>> 分配地址[30000000] 
+Pid [28901528] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:09:06.595948] | ERR>> 分配地址[30001000] 
+Pid [42402132] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:09:42.730002] | ERR>> 分配地址[30000000] 
+Pid [42402132] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:09:42.730143] | ERR>> 分配地址[30001000] 
+Pid [42926520] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:17:49.464697] | ERR>> 分配地址[30000000] 
+Pid [42926520] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:17:49.464839] | ERR>> 分配地址[30001000] 
+Pid [23593350] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:29:37.243740] | ERR>> 分配地址[30000000] 
+Pid [23593350] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:29:37.243876] | ERR>> 分配地址[30001000] 
+Pid [31850582] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:30:45.579318] | ERR>> 分配地址[30000000] 
+Pid [31850582] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:30:45.579462] | ERR>> 分配地址[30001000] 
+Pid [54657380] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:48:29.784052] | ERR>> 分配地址[30000000] 
+Pid [54657380] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:48:29.784208] | ERR>> 分配地址[30001000] 
+Pid [35586468] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:57:12.579673] | ERR>> 分配地址[30000000] 
+Pid [35586468] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:57:12.579822] | ERR>> 分配地址[30001000] 
+Pid [35258574] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:58:09.008810] | ERR>> 分配地址[30000000] 
+Pid [35258574] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/10-17:58:09.008945] | ERR>> 分配地址[30001000] 
+Pid [25362548] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/11-11:40:02.790616] | ERR>> 分配地址[30000000] 
+Pid [25362548] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/11-11:40:02.790751] | ERR>> 分配地址[30001000] 
+Pid [56688912] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/11-11:43:29.971054] | ERR>> 分配地址[30000000] 
+Pid [56688912] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/11-11:43:29.971179] | ERR>> 分配地址[30001000] 
+Pid [21758006] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/11-11:45:53.487292] | ERR>> 分配地址[30000000] 
+Pid [21758006] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/11-11:45:53.487423] | ERR>> 分配地址[30001000] 
+Pid [20447290] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/11-11:47:02.647297] | ERR>> 分配地址[30000000] 
+Pid [20447290] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/11-11:47:02.647435] | ERR>> 分配地址[30001000] 
+Pid [32178302] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/11-14:47:29.902251] | ERR>> 分配地址[30000000] 
+Pid [32178302] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/11-14:47:29.902387] | ERR>> 分配地址[30001000] 
+Pid [50790502] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-09:05:36.889164] | ERR>> 分配地址[30000000] 
+Pid [50790502] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-09:05:36.889305] | ERR>> 分配地址[30001000] 
+Pid [42664444] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-09:26:10.905324] | ERR>> 分配地址[30000000] 
+Pid [42664444] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-09:26:10.905470] | ERR>> 分配地址[30001000] 
+Pid [64487492] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-09:26:47.400721] | ERR>> 分配地址[30000000] 
+Pid [64487492] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-09:26:47.400856] | ERR>> 分配地址[30001000] 
+Pid [11731228] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-09:27:02.434615] | ERR>> 分配地址[30000000] 
+Pid [11731228] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-09:27:02.434757] | ERR>> 分配地址[30001000] 
+Pid [20840774] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-10:03:39.451947] | ERR>> 分配地址[30000000] 
+Pid [20840774] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-10:03:39.452079] | ERR>> 分配地址[30001000] 
+Pid [18481374] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-10:04:09.679233] | ERR>> 分配地址[30000000] 
+Pid [18481374] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-10:04:09.679366] | ERR>> 分配地址[30001000] 
+Pid [13828272] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-10:04:20.742745] | ERR>> 分配地址[30000000] 
+Pid [13828272] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-10:04:20.742887] | ERR>> 分配地址[30001000] 
+Pid [62128376] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-10:04:26.581119] | ERR>> 分配地址[30000000] 
+Pid [62128376] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-10:04:26.581252] | ERR>> 分配地址[30001000] 
+Pid [62128380] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-10:04:35.576428] | ERR>> 分配地址[30000000] 
+Pid [62128380] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-10:04:35.576557] | ERR>> 分配地址[30001000] 
+Pid [13107464] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-10:17:03.278530] | ERR>> 分配地址[30000000] 
+Pid [13107464] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-10:17:03.278659] | ERR>> 分配地址[30001000] 
+Pid [63897774] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-11:09:14.406377] | ERR>> 分配地址[30000000] 
+Pid [63897774] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-11:09:14.406516] | ERR>> 分配地址[30001000] 
+Pid [20447338] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-15:58:20.776147] | ERR>> 分配地址[30000000] 
+Pid [20447338] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-15:58:20.776282] | ERR>> 分配地址[30001000] 
+Pid [36438410] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-16:39:01.090834] | ERR>> 分配地址[30000000] 
+Pid [36438410] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-16:39:01.090973] | ERR>> 分配地址[30001000] 
+Pid [49283494] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-17:49:04.633815] | ERR>> 分配地址[30000000] 
+Pid [49283494] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/14-17:49:04.633957] | ERR>> 分配地址[30001000] 
+Pid [66257078] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/15-09:16:51.555640] | ERR>> 分配地址[30000000] 
+Pid [66257078] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/15-09:16:51.555772] | ERR>> 分配地址[30001000] 
+Pid [51577180] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/15-09:17:37.567245] | ERR>> 分配地址[30000000] 
+Pid [51577180] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/15-09:17:37.567385] | ERR>> 分配地址[30001000] 
+Pid [61669702] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/15-09:17:56.314185] | ERR>> 分配地址[30000000] 
+Pid [61669702] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/15-09:17:56.314319] | ERR>> 分配地址[30001000] 
+Pid [27394344] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/15-09:22:01.086009] | ERR>> 分配地址[30000000] 
+Pid [27394344] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/15-09:22:01.086156] | ERR>> 分配地址[30001000] 
+Pid [42533260] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/15-09:22:18.717734] | ERR>> 分配地址[30000000] 
+Pid [42533260] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/15-09:22:18.717905] | ERR>> 分配地址[30001000] 
+Pid [31326308] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/15-09:22:47.681566] | ERR>> 分配地址[30000000] 
+Pid [31326308] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/15-09:22:47.681719] | ERR>> 分配地址[30001000] 
+Pid [57868406] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/15-09:23:36.019649] | ERR>> 分配地址[30000000] 
+Pid [57868406] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/15-09:23:36.019781] | ERR>> 分配地址[30001000] 
+Pid [29556816] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/21-11:45:54.081185] | ERR>> 分配地址[30000000] 
+Pid [29556816] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/21-11:45:54.086207] | ERR>> 分配地址[30001000] 
+Pid [66060330] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/28-09:59:37.347259] | ERR>> 分配地址[30000000] 
+Pid [66060330] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/28-09:59:37.351988] | ERR>> 分配地址[30001000] 
+Pid [48169186] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/28-10:16:10.982744] | ERR>> 分配地址[30000000] 
+Pid [48169186] | File[utils.c] Function[makeShareMemory] Line[23] | Message :
+Time [2015/12/28-10:16:10.982881] | ERR>> 分配地址[30001000] 

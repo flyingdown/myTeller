@@ -1,0 +1,15 @@
+#!/bin/sh
+
+if [ $# -lt 1 ]; then
+	echo "Usage : $0 file"
+	exit 0;
+fi
+
+for i in $@
+do
+	cp $i $i.bak
+	sed "s///g" $i.bak > $i
+	rm -f $i.bak
+done
+
+

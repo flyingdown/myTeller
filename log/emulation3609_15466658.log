@@ -1,0 +1,24 @@
+Pid [15466658] | File[tran.c] Function[_dealTran] Line[43] | Message :
+Time [2015/12/15-09:16:51.556828] | INFO>> *******************请求流程开始******************* 
+Pid [15466658] | File[item.c] Function[initTranDesc] Line[154] | Message :
+Time [2015/12/15-09:16:51.556948] | INFO>> 交易描述结构分配内存成功 
+Pid [15466658] | File[item.c] Function[initTranDesc] Line[171] | Message :
+Time [2015/12/15-09:16:51.556968] | INFO>> 域描述结构分配内存成功 
+Pid [15466658] | File[item.c] Function[initTranDesc] Line[182] | Message :
+Time [2015/12/15-09:16:51.556984] | INFO>> 数据存储区分配内存成功 
+Pid [15466658] | File[item.c] Function[fillFieldInfo] Line[124] | Message :
+Time [2015/12/15-09:16:51.557037] | INFO>> tranDesc->fielddesc新地址2000ff68, 重新分配空间后大小为3072 
+Pid [15466658] | File[item.c] Function[fillFieldInfo] Line[124] | Message :
+Time [2015/12/15-09:16:51.557087] | INFO>> tranDesc->fielddesc新地址2000ff68, 重新分配空间后大小为4608 
+Pid [15466658] | File[item.c] Function[initTranDesc] Line[197] | Message :
+Time [2015/12/15-09:16:51.557104] | INFO>> 初始化域信息成功 
+Pid [15466658] | File[tran.c] Function[_dealTran] Line[66] | Message :
+Time [2015/12/15-09:16:51.557197] | ERR>> readTranInfoConfig fail 
+Pid [15466658] | File[item.c] Function[destoryTranDesc] Line[221] | Message :
+Time [2015/12/15-09:16:51.557214] | INFO>> 释放域内存成功 
+Pid [15466658] | File[item.c] Function[destoryTranDesc] Line[229] | Message :
+Time [2015/12/15-09:16:51.557230] | INFO>> 释放域值内存成功 
+Pid [15466658] | File[item.c] Function[destoryTranDesc] Line[237] | Message :
+Time [2015/12/15-09:16:51.557246] | INFO>> 释放交易内存成功 
+Pid [15466658] | File[tran.c] Function[dealTran] Line[15] | Message :
+Time [2015/12/15-09:16:51.557261] | ERR>> #############交易失败############ 
